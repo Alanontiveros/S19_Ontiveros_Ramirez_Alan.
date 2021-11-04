@@ -1,5 +1,6 @@
 ##Ingresar un número y validar si es par o impar.
 
+# Excelente, en este caso si tenemos que castear a int, de otra forma no funciona el operador %
 num = input("Introduce un número: ")
 num = int(num)
 if num == 0:
