@@ -1,9 +1,16 @@
-"""Ingresar tu fecha de cumpleaños como enteros en variables por separado
-    e imprímela junto al string:
-    “Year: xxxx - Month: xx - Day: xx”
-    donde las xx son las variables correspondientes."""
+"""
+Date:       2021-11-04
+Author:     Alan Ontiveros Ramirez
+File:       T1E2_birthday.py
+Brief:      Ingresar tu fecha de cumpleaños como enteros en variables por separado
+            e imprímela junto al string:
+            “Year: xxxx - Month: xx - Day: xx”
+            donde las xx son las variables correspondientes.
+Score:      100
+Version:    1.1.1
+Fixes:      -
+"""
 
-# En el PDF no les puse este requisito (en el correo si), pero en todas las tarea vamos a incluir esta condición
 if __name__ == '__main__':
     # Dia
     var_año = int(input("Introduce el año en que naciste:"))
