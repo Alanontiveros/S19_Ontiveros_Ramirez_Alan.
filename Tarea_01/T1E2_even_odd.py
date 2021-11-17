@@ -1,6 +1,13 @@
-##Ingresar un número y validar si es par o impar.
+"""
+Date:       2021-11-04
+Author:     Alan Ontiveros Ramirez
+File:       T2E2_even_odd.py
+Brief:      Ingresar un número y validar si es par o impar.
+Score:      100
+Version:    1.1.1
+Fixes:      -
+"""
 
-# En el PDF no les puse este requisito, pero en todas las tarea vamos a incluir esta condición
 if __name__ == '__main__':
     num = input("Introduce un número: ")
     num = int(num)  # Excelente, en este caso si tenemos que castear a int, de otra forma no funciona el operador %
