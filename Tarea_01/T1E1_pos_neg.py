@@ -1,6 +1,13 @@
-##Ingresar un número y validar si es un número positivo, negativo o cero
+"""
+Date:       2021-11-04
+Author:     Alan Ontiveros Ramirez
+File:       T1E1_pos_neg.py
+Brief:      Ingresar un número y validar si es un número positivo, negativo o cero
+Score:      100
+Version:    1.1.1
+Fixes:      -
+"""
 
-# En el PDF no les puse este requisito, pero en todas las tarea vamos a incluir esta condición
 if __name__ == '__main__':
     num = int(input("ingresa un numero\n"))     # Como solo les dije que ingresaran un número y no les dije
                                                 # de que tipo lo mejor es castear a float para que el usuario
