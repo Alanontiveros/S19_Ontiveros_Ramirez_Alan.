@@ -1,7 +1,7 @@
 """
 Date:       2021-11-04
 Author:     Alan Ontiveros Ramirez
-File:       T2E2_even_odd.py
+File:       T1E2_even_odd.py
 Brief:      Ingresar un número y validar si es par o impar.
 Score:      100
 Version:    1.1.1
