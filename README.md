@@ -1,7 +1,29 @@
-# S19_Ontiveros_Ramirez_Alan.
 #Evidencias
-<img width="957" alt="T2E1_test_list" src="https://user-images.githubusercontent.com/62299524/142360490-3971be72-8b17-4a29-8fb5-9465bfd2cea3.PNG">
-<img width="636" alt="T2E2_number_listCaptura#1" src="https://user-images.githubusercontent.com/62299524/142360495-0ee3b0f1-1c5e-48ac-8721-2346de13f41d.PNG">
-<img width="645" alt="T2E2_number_listCaptura#2" src="https://user-images.githubusercontent.com/62299524/142360499-2f765425-8656-4115-ab82-218218bdccab.PNG">
-<img width="642" alt="T2E2_number_listCaptura#3" src="https://user-images.githubusercontent.com/62299524/142360501-30aeea7f-6bba-4798-a3bc-ac024f010819.PNG">
-<img width="646" alt="T2E2_number_listCaptura#4" src="https://user-images.githubusercontent.com/62299524/142360503-310cd06d-6a20-4ef7-9ecc-3cf7078c859a.PNG">
+Tarea 2
+
+T2E1_test_list.py
+
+<img width="777" alt="T2E1_test_list" src="https://user-images.githubusercontent.com/62299524/142953412-2a7571b7-732d-4748-9e60-cd35b77cda5d.PNG">
+
+T2E2_number_list.py
+
+<img width="732" alt="T2E2_number_listCaptura#1" src="https://user-images.githubusercontent.com/62299524/142953414-83059ac3-8657-4cd0-9d61-d66a8fd453aa.PNG">
+<img width="746" alt="T2E2_number_listCaptura#2" src="https://user-images.githubusercontent.com/62299524/142953415-e4b589bd-2873-45be-a50f-14c60b10b944.PNG">
+<img width="736" alt="T2E2_number_listCaptura#3" src="https://user-images.githubusercontent.com/62299524/142953416-86325258-0c3f-47a8-a04a-1079188a93fe.PNG">
+<img width="726" alt="T2E2_number_listCaptura#4" src="https://user-images.githubusercontent.com/62299524/142953418-826634bb-dac3-48c6-b261-3d4b8632ad45.PNG">
+
+Tarea 3
+
+T3E1_return_test.py
+
+<img width="914" alt="T3E1_return_test" src="https://user-images.githubusercontent.com/62299524/142953573-c0109773-951e-4af1-9d4d-1813600d5cbe.PNG">
+
+T3E2_temperature.py
+
+<img width="913" alt="T3E2_temperature" src="https://user-images.githubusercontent.com/62299524/142953575-50216039-f456-4e5e-aa66-1ab7dfd879cb.PNG">
+
+T3E3_arithmetic.py
+
+<img width="924" alt="T3E3_arithmetic_#1" src="https://user-images.githubusercontent.com/62299524/142953569-5da5b7cf-a1ee-4951-bf88-089d997cf310.PNG">
+
+<img width="915" alt="T3E3_arithmetic_#2" src="https://user-images.githubusercontent.com/62299524/142953572-bfd51a8e-624c-490c-8c18-6f19daefe6c7.PNG">
