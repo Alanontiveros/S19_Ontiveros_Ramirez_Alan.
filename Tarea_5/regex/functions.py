@@ -1,8 +1,9 @@
 """
-Date:       2021-12-
+Date:       2021-12-22
 Authors:    Alan Emmanuel Ontiveros Ramírez
-File:
-Brief:
+            Paulina Alejandra Aguilar Hernandez
+File:       Functions.py
+Brief:      En este archivo se ejecutan las validaciones.
 Score:      -
 Version:    0.0.1
 Fixies:     -
