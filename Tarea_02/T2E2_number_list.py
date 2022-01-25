@@ -2,11 +2,11 @@
 Date:       2021-11-17
 Authors:    Alan Emmanuel Ontiveros Ramírez
 File:       T2E2_number_list
-Brief:      Crear una lista con n números desde el teclado, después realizar los pasos
-            requeridos en el correo.
-Score:      -
-Version:    0.0.1
-Fixies:     -
+Brief:      Crear una lista con n números desde el teclado, después
+            realizar los pasos requeridos en el correo.
+Score:      100
+Version:    1.1.1
+Fixes:      + Perfecto
 """
 
 
